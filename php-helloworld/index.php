@@ -1,3 +1,4 @@
 <?php
-print "Hello, World! php version is " . PHP_VERSION . "\n";
+print "Hello My World! This php version is " . PHP_VERSION . "\n";
+echo 'User IP Address - '. $_SERVER['REMOTE_ADDR'];
 ?>
